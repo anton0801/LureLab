@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "symbols": [
+    "S01",
+    "S02",
+    "S03",
+    "S04",
+    "S05",
+    "S06"
+  ],
+  "symbolWeights": [
+    1,
+    1,
+    1,
+    1,
+    1,
+    1
+  ],
+  "rows": 3,
+  "columns": 5,
+  "evaluatedRow": 1,
+  "reward": {
+    "defaultParts": 1,
+    "longestRun3or4Parts": 2,
+    "longestRun5Parts": 3
+  },
+  "rewardCountsOver7776": {
+    "1": 7200,
+    "2": 570,
+    "3": 6
+  },
+  "capsuleCooldownSeconds": 86400,
+  "maxCapsules": 7,
+  "craftCostParts": 3,
+  "collectibles": [
+    {
+      "id": "L01",
+      "name": "Coral Comet",
+      "costParts": 3
+    },
+    {
+      "id": "L02",
+      "name": "Emerald Drift",
+      "costParts": 3
+    },
+    {
+      "id": "L03",
+      "name": "Midnight Fin",
+      "costParts": 3
+    },
+    {
+      "id": "L04",
+      "name": "Sunrise Spinner",
+      "costParts": 3
+    }
+  ]
+}
